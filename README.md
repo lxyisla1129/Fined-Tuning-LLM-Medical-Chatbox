@@ -2,7 +2,7 @@
 
 #### Model Save Link: https://huggingface.co/LxyMia1129/LLM_Medical_ChatBox/tree/main
 
-This project leverages LLaMA-2, a powerful and versatile language model, as the foundation to create a fine-tuned Large Language Model (LLM) for a medical AI chatbot using a dataset of 5,000 medical questions and answers involves several steps, each crucial for ensuring the model's accuracy, relevance, and safety. 
+This project leverages LLaMA-2, a powerful and versatile language model, as the foundation to create a fine-tuned Large Language Model (LLM) for a medical AI chatbot using a dataset of 5k+ medical questions and answers involves several steps, each crucial for ensuring the model's accuracy, relevance, and safety. 
 
 Here’s a step-by-step guide to fine-tuning this model for medical purposes:
 
